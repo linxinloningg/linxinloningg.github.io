@@ -1,37 +1,109 @@
-## Welcome to GitHub Pages
+# 联系方式
 
-You can use the [editor on GitHub](https://github.com/linxinloningg/linxinloningg.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+-   手机：13226233213
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-   Email：linxinglong\@stu.gdou.edu.cn
 
-### Markdown
+-   QQ/微信号：13286515438
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 个人信息
 
-```markdown
-Syntax highlighted code block
+-   林星龙/男/2000
 
-# Header 1
-## Header 2
-### Header 3
+-   本科/通信工程专业大三在读
 
-- Bulleted
-- List
+-   工作年限：暂无
 
-1. Numbered
-2. List
+-   技术博客：https://blog.csdn.net/linxinloningg
 
-**Bold** and _Italic_ and `Code` text
+-   Github：https://github.com/linxinloningg
 
-[Link](url) and ![Image](src)
-```
+-   期望职位：数据分析师，数据挖掘工程师，嵌入式软件工程师（实习生）
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+-   期望薪资：税前月薪4k\~7k，特别喜欢的公司可例外（实习生）
 
-### Jekyll Themes
+-   期望城市：广州、佛山、深圳
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/linxinloningg/linxinloningg.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# 证书：
 
-### Support or Contact
+-   CET-4(英语四级)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-   计算机二级
+
+-   广东省第二十一届大学生物理实验设计大赛省三等奖
+
+# 工作经历
+
+暂无
+
+### "智能药箱"项目： 
+
+大学生创新创业项目，以获评定\"国家级创新创业项目\"，已结项。
+
+我在此项目早期担任电路设计工作，主要完成芯片及相关外设的电路原理图，pcb板，通过Altium Designer软件绘制；硬件及基本功能完成之后，在项目中期通过树莓派搭建数据存储和分析平台，通过树莓派整合包括自身和底层芯片、外设所获取的数据，经过清洗，构建保存进mysql数据库供用户查看及web后台管理，通过简单机械学习（SVM向量机）分类和尝试深度学习寻找符合用户规律的预测。
+
+# 开源项目和作品
+
+-   lightweight_spider：用request/lxml/pandas/re/json等相关python库对数据进行挖掘清洗且保存
+
+-   Stockquant：股票数据分析及预测系统
+
+    -   1.akshare、爬虫用于数据获取
+
+    -   2.pands、numpy用于数据清洗
+
+    -   3.mysql、excel同于数据存储
+
+    -   4.用传统机械学习SVM、决策树等预测；用LSTM深度学习模型预测
+
+    -   5.交互界面：GUI界面（qt）、WEB界面（tornado）
+
+    -   6.其他工具：phpMadmin、Superset、dbStructExportTool
+
+## 技术文章
+
+较多阅读量：
+
+-   一个完整的机器学习模型的流程
+
+-   利用51单片机+0.96寸iic接口oled显示图片或动图
+
+## 演讲和讲义
+
+-   广东省第二十一届大学生物理实验设计大赛：可控声悬浮实验的实现与分析
+
+# 技能清单
+
+以下均为我熟练使用的技能
+
+-   c51、stm32、arduino单片机语言：主要是大一期间研究硬件所学并运用
+
+-   编译器及工具类：
+
+    -   keil、Altium Designer等单片机开发工具
+
+    -   Vscode、pycharm、IntelliJ、WebStorm等软件开发工具
+
+    -   熟悉windows与linus系统操作，熟悉基本dos命令，熟悉linus常用命令，可以运用linus系统作为开发环境
+
+    -   了解和懂得应用docker虚拟容器的部署
+
+-   前端框架：HTML5
+
+-   UI界面：QT
+
+-   python数据挖掘：request/lxml/pandas/re/json
+
+-   python数据清洗：pands、numpy
+
+-   深度学习：TensorFlow
+
+-   数据库相关：MySQL
+
+-   数据分析工具：PowerBI、Fiddler、BurpSuite
+
+-   版本管理、文档和自动化部署工具：Git/Markdown
+
+-   云和开放平台：微信小程序开发
+
+感谢您花时间阅读我的简历，期待能有机会和您共事。
