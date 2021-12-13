@@ -2,7 +2,7 @@
 
 -   手机：13226233213
 
--   Email：linxinglong\@stu.gdou.edu.cn
+-   Email：linxinglong@stu.gdou.edu.cn
 
 -   QQ/微信号：13286515438
 
@@ -50,7 +50,7 @@
 
     -   1.akshare、爬虫用于数据获取
 
-    -   2.pands、numpy用于数据清洗
+    -   2.pandas、numpy用于数据清洗
 
     -   3.mysql、excel同于数据存储
 
@@ -84,7 +84,7 @@
 
     -   Vscode、pycharm、IntelliJ、WebStorm等软件开发工具
 
-    -   熟悉windows与linus系统操作，熟悉基本dos命令，熟悉linus常用命令，可以运用linus系统作为开发环境
+    -   熟悉windows与linus系统操作，熟悉基本dos命令，熟悉linux常用命令，可以运用linux系统作为开发环境
 
     -   了解和懂得应用docker虚拟容器的部署
 
@@ -94,7 +94,7 @@
 
 -   python数据挖掘：request/lxml/pandas/re/json
 
--   python数据清洗：pands、numpy
+-   python数据清洗：pandas、numpy
 
 -   深度学习：TensorFlow
 
