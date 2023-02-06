@@ -50,35 +50,37 @@
   >
   >2. 关机：
   >
-  >   * 未开机时，不得关闭机器
-  >   * 正在运行程序时，不得关闭机器
+  >     * 未开机时，不得关闭机器
+  >
+  >     * 正在运行程序时，不得关闭机器
+  >
   >
   >3. 运行程序：
+  >     * 未开机时，不得运行程序
   >
-  >   * 未开机时，不得运行程序
   >
   >4. 退出程序：
+  >     * 未在运行程序时，不得退出程序
   >
-  >   * 未在运行程序时，不得退出程序
   >
   >5. 暂停程序：
+  >     * 未在运行程序时，不得暂停程序
   >
-  >   * 未在运行程序时，不得暂停程序
   >
   >6. 恢复程序：
+  >     * 未在暂停程序时，不得恢复程序
   >
-  >   * 未在暂停程序时，不得恢复程序
   >
   >7. 出错样例：
   >
-  >   * 未开机时，点击运行程序或者暂停程序
+  >  * 未开机时，点击运行程序或者暂停程序
   >
-  >     <iframe src="//player.bilibili.com/player.html?aid=481479705&bvid=BV1oT411X7LZ&cid=995940155&page=8" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
+  >    <iframe src="//player.bilibili.com/player.html?aid=481479705&bvid=BV1oT411X7LZ&cid=995940155&page=8" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
   >
-  >   * 运行程序时，点击关机
+  >  * 运行程序时，点击关机
   >
-  >     <iframe src="//player.bilibili.com/player.html?aid=481479705&bvid=BV1oT411X7LZ&cid=995940155&page=9" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
+  >    <iframe src="//player.bilibili.com/player.html?aid=481479705&bvid=BV1oT411X7LZ&cid=995940155&page=9" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
   >
-  >   * 未在运行程序时，点击暂停程序
+  >  * 未在运行程序时，点击暂停程序
   >
-  >     <iframe src="//player.bilibili.com/player.html?aid=481479705&bvid=BV1oT411X7LZ&cid=995940155&page=10" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
+  >    <iframe src="//player.bilibili.com/player.html?aid=481479705&bvid=BV1oT411X7LZ&cid=995940155&page=10" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500"> </iframe>
